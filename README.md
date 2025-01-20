@@ -3,6 +3,11 @@
 - I'm currently learning ways to incorporate machine learning into aerospace-related projects,
   design control systems in aircraft, and implement additive manufacturing methods to create drone/RC plane builds.
 
+Languages:
+
+
+Projects:
+
 
 
 <!---
