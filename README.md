@@ -4,9 +4,9 @@ Currently, I'm learning ways to incorporate machine learning into aerospace-rela
 
 ---
 
-Languages:
+### Languages:
 
-<h6 Projects:
+### Projects:
 
 
 <!---
