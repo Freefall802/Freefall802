@@ -5,7 +5,9 @@ Currently, I'm learning ways to incorporate machine learning into aerospace-rela
 ---
 
 ### Languages:
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>         
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>          
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>                
 <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
           
 ### Projects:
