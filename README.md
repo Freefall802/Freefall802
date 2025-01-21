@@ -1,4 +1,4 @@
-Hi, I’m Seth! <br>
+###### Hi, I’m Seth! <br>
 I'm an Aerospace Engineer with a BSE in Aerospace Engineering from the University of Michigan. I enjoy finding ways to combine computer science and aerospace engineering. <br>
 Currently, I'm learning ways to incorporate machine learning into aerospace-related projects, design control systems in aircraft, and implement additive manufacturing methods to create drone/RC plane builds.
 
@@ -6,11 +6,7 @@ Currently, I'm learning ways to incorporate machine learning into aerospace-rela
 
 Languages:
 
-<img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/> 
-
-<br>
-Projects:
-
+<h6 Projects:
 
 
 <!---
