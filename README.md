@@ -1,11 +1,11 @@
-#### Hi, I’m Seth!
+## Hello👋, I’m Seth!
 
 I'm an Aerospace Engineer currently working in project management. In my spare time,
 I enjoy finding ways to combine computer science and aerospace engineering.
-The coding langauges I am most familar with are Matlab, Python, and C++.  
+The langauges I am most familar with are Matlab, Python, and C++.  
 
-Currently, I'm learning ways to incorporate machine learning into aerospace-related projects, design control systems in aircraft,
-and implement additive manufacturing methods to create drone and RC plane builds.
+Currently, I'm learning ways to incorporate machine learning into aerospace-related projects, 
+design control systems in aircraft, and implement additive manufacturing methods to create drone and RC plane builds.
 
 ---
 
