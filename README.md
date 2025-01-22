@@ -27,7 +27,10 @@ and implement additive manufacturing methods to create drone and RC plane builds
     <li>Hybrid</li> 
 </ul>             
 
-### Projects:
+### Software Applications:   
+
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+          
 
 
 <!---
