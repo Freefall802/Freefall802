@@ -14,7 +14,7 @@ Currently, I'm learning ways to incorporate machine learning into aerospace-rela
 <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"/>                   
 <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>        
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/><br>
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>  
                          
 ### Project Management Methodologies:
 
