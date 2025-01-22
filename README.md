@@ -5,7 +5,7 @@ I enjoy finding ways to combine computer science and aerospace engineering.
 The coding langauges I am most familar with are Matlab, Python, and C++.  
 
 Currently, I'm learning ways to incorporate machine learning into aerospace-related projects, design control systems in aircraft,
-and implement additive manufacturing methods to create drone/RC plane builds.
+and implement additive manufacturing methods to create drone and RC plane builds.
 
 ---
 
