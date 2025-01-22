@@ -18,9 +18,9 @@ Currently, I'm learning ways to incorporate machine learning into aerospace-rela
                          
 ### Project Management Methodologies:
 
-Predictive  
-Agile  
-Hybrid             
+*Predictive*    
+*Agile*  
+*Hybrid*             
 
 ### Projects:
 
