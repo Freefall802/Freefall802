@@ -33,7 +33,7 @@ design control systems in aircraft, and implement additive manufacturing methods
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>   
     </a>                                                      
-</div> 
+</div><br> 
 
 ### Project Management Methodologies:
 
