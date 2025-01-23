@@ -41,10 +41,10 @@ design control systems in aircraft, and implement additive manufacturing methods
     <a href="https://code.visualstudio.com/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>   
     </a>        
-    <a href="https://docs.python.org/3/">
+    <a href="https://www.ansys.com/">
         <img align="left" alt="java" width="30px" src="images/AnsysLogo.svg"/>  
     </a>
-     <a href="https://devdocs.io/cpp/">
+     <a href="https://www.solidworks.com/">
         <img align="left" alt="java" width="30px" src="images/SolidworksLogo.svg"/>   
     </a>                                                  
 </div><br> 
