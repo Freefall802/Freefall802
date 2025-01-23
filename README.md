@@ -35,6 +35,20 @@ design control systems in aircraft, and implement additive manufacturing methods
     </a>                                                      
 </div><br> 
 
+### Software Applications:   
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; padding: 10px;">
+    <a href="https://code.visualstudio.com/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>   
+    </a>        
+    <a href="https://docs.python.org/3/">
+        <img align="left" alt="java" width="30px" src="images\AnsysLogo.svg"/>  
+    </a>
+     <a href="https://devdocs.io/cpp/">
+        <img align="left" alt="java" width="30px" src="images\SolidworksLogo.svg"/>   
+    </a>                                                  
+</div><br> 
+
 ### Project Management Methodologies:
 
 <ul>
@@ -42,10 +56,6 @@ design control systems in aircraft, and implement additive manufacturing methods
     <li>Agile</li> 
     <li>Hybrid</li> 
 </ul>             
-
-### Software Applications:   
-
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
           
 
 <!---
