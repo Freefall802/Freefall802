@@ -12,25 +12,25 @@ design control systems in aircraft, and implement additive manufacturing methods
 ### Languages:         
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; padding: 10px;">
-    <a href="https://www.mathworks.com/help/index.html?s_tid=CRUX_lftnav" target= "_blank">
+    <a href="https://www.mathworks.com/help/index.html?s_tid=CRUX_lftnav">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>   
     </a>        
-    <a href="https://docs.python.org/3/" target= "_blank">
+    <a href="https://docs.python.org/3/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>   
     </a>
-     <a href="https://devdocs.io/cpp/" target= "_blank">
+     <a href="https://devdocs.io/cpp/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>   
     </a>
-    <a href="https://devdocs.io/c/" target= "_blank">
+    <a href="https://devdocs.io/c/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>   
     </a>
-    <a href="https://www.ni.com/docs/en-US/" target= "_blank">
+    <a href="https://www.ni.com/docs/en-US/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"/>   
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target= "_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>   
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target= "_blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>   
     </a>                                                      
 </div><br> 
@@ -38,18 +38,15 @@ design control systems in aircraft, and implement additive manufacturing methods
 ### Software Applications:   
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; padding: 10px;">
-    <a href="https://code.visualstudio.com/" target= "_blank">
+    <a href="https://code.visualstudio.com/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>   
     </a>        
-    <a href="https://www.ansys.com/" target= "_blank">
+    <a href="https://www.ansys.com/">
         <img align="left" alt="java" width="30px" src="images/AnsysLogo.svg"/>  
     </a>
-    <a href="https://www.solidworks.com/" target= "_blank">
+     <a href="https://www.solidworks.com/">
         <img align="left" alt="java" width="30px" src="images/SolidworksLogo.svg"/>   
-    </a>
-    <a href="https://www.ptc.com/en/products/creo" target= "_blank">
-        <img align="left" alt="java" width="30px" src="images/CreoLogo.svg"/>   
-    </a>                                                   
+    </a>                                                  
 </div><br> 
 
 ### Project Management Methodologies:
