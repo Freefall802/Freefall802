@@ -11,14 +11,30 @@ design control systems in aircraft, and implement additive manufacturing methods
 
 ### Languages:         
 
-<a href="https://www.mathworks.com/help/index.html?s_tid=CRUX_lftnav"><img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/></a>         
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>          
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"/>                   
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>        
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/><br>
-                         
+<div style="display: flex; justify-content: space-evenly; align-items: center; padding: 10px;">
+    <a href="https://www.mathworks.com/help/index.html?s_tid=CRUX_lftnav">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>   
+    </a>        
+    <a href="https://docs.python.org/3/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>   
+    </a>
+     <a href="https://devdocs.io/cpp/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>   
+    </a>
+    <a href="https://devdocs.io/c/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>   
+    </a>
+    <a href="https://www.ni.com/docs/en-US/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg"/>   
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>   
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>   
+    </a>                                                      
+</div> 
+
 ### Project Management Methodologies:
 
 <ul>
