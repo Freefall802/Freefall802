@@ -40,11 +40,17 @@ design control systems in aircraft, and implement additive manufacturing methods
 <div style="display: flex; justify-content: space-evenly; align-items: center; padding: 10px;">
     <a href="https://code.visualstudio.com/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>   
-    </a>        
+    </a>
+    <a href="https://www.anaconda.com/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>   
+    </a>
+    <a href="https://jupyter.org/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>   
+    </a>         
     <a href="https://www.ansys.com/">
         <img align="left" alt="java" width="30px" src="images/AnsysLogo.svg"/>  
     </a>
-     <a href="https://www.solidworks.com/">
+    <a href="https://www.solidworks.com/">
         <img align="left" alt="java" width="30px" src="images/SolidworksLogo.svg"/>   
     </a>                                                  
 </div><br> 
@@ -62,3 +68,5 @@ design control systems in aircraft, and implement additive manufacturing methods
 Freefall802/Freefall802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+          
+          
