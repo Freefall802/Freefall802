@@ -52,7 +52,10 @@ design control systems in aircraft, and implement additive manufacturing methods
     </a>
     <a href="https://www.solidworks.com/">
         <img align="left" alt="java" width="30px" src="images/SolidworksLogo.svg"/>   
-    </a>                                                  
+    </a>
+    <a href="https://www.ptc.com/en/products/creo">
+        <img align="left" alt="java" width="30px" src="images/CreoLogo.svg"/>   
+    </a>                                                        
 </div><br> 
 
 ### Project Management Methodologies:
