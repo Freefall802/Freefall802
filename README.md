@@ -1,8 +1,12 @@
-## Hello👋, I’m Seth!
+## Hello👋 I’m Seth!
 
-I'm an Aerospace Engineer currently working in project management. In my spare time,
-I enjoy finding ways to combine computer science and aerospace engineering.
-The langauges I am most familar with are Matlab, Python, and C++.  
+I'm an Aerospace Engineer currently working in project management. I graduated 
+with a BSE in Aerospace Engineering from the University of Michigan in 2023, 
+with experience primarily focused on aircraft design and structures.  
+
+In my spare time, I enjoy finding ways to combine computer science and aerospace engineering.
+The langauges I am most familar with are Matlab, Python, and C++, but I have also branched 
+out into HTML and CSS as a way to creatively display my experience, projects, and interests. 
 
 Currently, I'm learning ways to incorporate machine learning into aerospace-related projects, 
 design control systems in aircraft, and implement additive manufacturing methods to create drone and RC plane builds.
@@ -56,7 +60,9 @@ design control systems in aircraft, and implement additive manufacturing methods
     <a href="https://www.ptc.com/en/products/creo">
         <img align="left" alt="java" width="30px" src="images/CreoLogo.svg"/>   
     </a>                                                        
-</div><br> 
+</div><br>  
+
+---
 
 ### Project Management Methodologies:
 
