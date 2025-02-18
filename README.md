@@ -50,7 +50,10 @@ design control systems in aircraft, and implement additive manufacturing methods
     </a>
     <a href="https://jupyter.org/">
         <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>   
-    </a>         
+    </a>
+    <a href="https://jupyter.org/">
+        <img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"/>      
+    </a>          
     <a href="https://www.ansys.com/">
         <img align="left" alt="java" width="30px" src="images/AnsysLogo.svg"/>  
     </a>
@@ -59,7 +62,7 @@ design control systems in aircraft, and implement additive manufacturing methods
     </a>
     <a href="https://www.ptc.com/en/products/creo">
         <img align="left" alt="java" width="30px" src="images/CreoLogo.svg"/>   
-    </a>                                                        
+    </a>                                                           
 </div><br>  
 
 ---
